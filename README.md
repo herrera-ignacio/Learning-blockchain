@@ -11,3 +11,4 @@
    1. [Introducing PoW](2/pow)
    2. [Trivial example](2/trivial_example)
    3. [PoW blockchain](2/pow_blockchain)
+3. [Peer-to-peer networks](3/p2p-networks)
