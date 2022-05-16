@@ -12,3 +12,6 @@
    2. [Trivial example](2/trivial_example)
    3. [PoW blockchain](2/pow_blockchain)
 3. [Peer-to-peer networks](3/p2p-networks)
+4. Cryptography
+   1. [Introducing cryptography](4/cryptography)
+   2. [Sending messages with integrity](4/integrity)
