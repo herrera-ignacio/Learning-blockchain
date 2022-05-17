@@ -43,7 +43,7 @@ class Blockchain {
   }
 
   /**
-   * Build new block containing current pending transactions
+   * Build new block containing current pending 5
    * and keep record of the previous hash.
    * @param previousHash
    */
@@ -66,10 +66,10 @@ class Blockchain {
    * Generates a new block and adds it to the chain
    */
   public addNewBlock(previousHash: string = ""): Block {
-    // Block will contain pending transactions
+    // Block will contain pending 5
     const block = this.buildBlock(previousHash);
 
-    // Reset pending transactions
+    // Reset pending 5
     this.pendingTransactions = [];
 
     // Add the block to the chain

@@ -44,7 +44,7 @@ class Blockchain {
   }
 
   /**
-   * Build new block containing current pending transactions
+   * Build new block containing current pending 5
    * and keep record of the previous hash.
    * @param previousHash
    */
@@ -68,7 +68,7 @@ class Blockchain {
    * Adds a block to the chain
    */
   public addNewBlock(block: Block): Block {
-    // Reset pending transactions
+    // Reset pending 5
     this.pendingTransactions = [];
 
     // Add the block to the chain
