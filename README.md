@@ -18,3 +18,7 @@
    3. [Wallets on the Blockchain](4/wallets)
 5. Transactions
    1. [Introducing transactions](5/transactions)
+   2. [Demo implementation](5/demo)
+      1. Bitcoin & Push Networks
+      2. Simple transaction data structure
+      3. Simple transaction flow

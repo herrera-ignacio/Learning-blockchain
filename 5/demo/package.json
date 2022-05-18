@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-transactions-demo",
+  "version": "1.0.0",
+  "description": "Blockchain transactions demo",
+  "main": "index.ts",
+  "author": "Ignacio Herrera",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build",
+    "dev": "ts-node-dev --respawn --transpile-only index.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
